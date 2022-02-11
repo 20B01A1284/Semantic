@@ -1,13 +1,10 @@
 {
   "files": {
-    "main.css": "/Semantic/static/css/main.aef3d95d.css",
-    "main.js": "/Semantic/static/js/main.f69bb9bc.js",
+    "main.js": "/Semantic/static/js/main.80ada126.js",
     "index.html": "/Semantic/index.html",
-    "main.aef3d95d.css.map": "/Semantic/static/css/main.aef3d95d.css.map",
-    "main.f69bb9bc.js.map": "/Semantic/static/js/main.f69bb9bc.js.map"
+    "main.80ada126.js.map": "/Semantic/static/js/main.80ada126.js.map"
   },
   "entrypoints": [
-    "static/css/main.aef3d95d.css",
-    "static/js/main.f69bb9bc.js"
+    "static/js/main.80ada126.js"
   ]
 }
